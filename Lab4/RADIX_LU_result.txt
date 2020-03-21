@@ -1,0 +1,208 @@
+ways:1    cache_size:1024    block_size:64
+cache line:16    offset_bit:6    index_bit:4
+miss rate:0.250864
+===========
+ways:2    cache_size:1024    block_size:64
+cache line:16    offset_bit:6    index_bit:3
+miss rate:0.113738
+===========
+ways:4    cache_size:1024    block_size:64
+cache line:16    offset_bit:6    index_bit:2
+miss rate:0.0334533
+===========
+ways:8    cache_size:1024    block_size:64
+cache line:16    offset_bit:6    index_bit:1
+miss rate:0.0332805
+===========
+ways:1    cache_size:2048    block_size:64
+cache line:32    offset_bit:6    index_bit:5
+miss rate:0.212169
+===========
+ways:2    cache_size:2048    block_size:64
+cache line:32    offset_bit:6    index_bit:4
+miss rate:0.0687212
+===========
+ways:4    cache_size:2048    block_size:64
+cache line:32    offset_bit:6    index_bit:3
+miss rate:0.0273329
+===========
+ways:8    cache_size:2048    block_size:64
+cache line:32    offset_bit:6    index_bit:2
+miss rate:0.0270161
+===========
+ways:1    cache_size:4096    block_size:64
+cache line:64    offset_bit:6    index_bit:6
+miss rate:0.192569
+===========
+ways:2    cache_size:4096    block_size:64
+cache line:64    offset_bit:6    index_bit:5
+miss rate:0.0436636
+===========
+ways:4    cache_size:4096    block_size:64
+cache line:64    offset_bit:6    index_bit:4
+miss rate:0.0239631
+===========
+ways:8    cache_size:4096    block_size:64
+cache line:64    offset_bit:6    index_bit:3
+miss rate:0.0237471
+===========
+ways:1    cache_size:8192    block_size:64
+cache line:128    offset_bit:6    index_bit:7
+miss rate:0.0843174
+===========
+ways:2    cache_size:8192    block_size:64
+cache line:128    offset_bit:6    index_bit:6
+miss rate:0.0271169
+===========
+ways:4    cache_size:8192    block_size:64
+cache line:128    offset_bit:6    index_bit:5
+miss rate:0.0185628
+===========
+ways:8    cache_size:8192    block_size:64
+cache line:128    offset_bit:6    index_bit:4
+miss rate:0.019254
+===========
+ways:1    cache_size:16384    block_size:64
+cache line:256    offset_bit:6    index_bit:8
+miss rate:0.0735599
+===========
+ways:2    cache_size:16384    block_size:64
+cache line:256    offset_bit:6    index_bit:7
+miss rate:0.0112471
+===========
+ways:4    cache_size:16384    block_size:64
+cache line:256    offset_bit:6    index_bit:6
+miss rate:0.0116791
+===========
+ways:8    cache_size:16384    block_size:64
+cache line:256    offset_bit:6    index_bit:5
+miss rate:0.0123704
+===========
+ways:1    cache_size:32768    block_size:64
+cache line:512    offset_bit:6    index_bit:9
+miss rate:0.0123128
+===========
+ways:2    cache_size:32768    block_size:64
+cache line:512    offset_bit:6    index_bit:8
+miss rate:0.00809332
+===========
+ways:4    cache_size:32768    block_size:64
+cache line:512    offset_bit:6    index_bit:7
+miss rate:0.0077621
+===========
+ways:8    cache_size:32768    block_size:64
+cache line:512    offset_bit:6    index_bit:6
+miss rate:0.00761809
+===========
+
+--------------------------------
+Process exited after 1.115 seconds with return value 0
+請按任意鍵繼續 . . .
+---RADIX
+
+
+
+
+
+
+---LU
+ways:1    cache_size:1024    block_size:64
+cache line:16    offset_bit:6    index_bit:4
+miss rate:0.110681
+===========
+ways:2    cache_size:1024    block_size:64
+cache line:16    offset_bit:6    index_bit:3
+miss rate:0.0835529
+===========
+ways:4    cache_size:1024    block_size:64
+cache line:16    offset_bit:6    index_bit:2
+miss rate:0.0778174
+===========
+ways:8    cache_size:1024    block_size:64
+cache line:16    offset_bit:6    index_bit:1
+miss rate:0.0782824
+===========
+ways:1    cache_size:2048    block_size:64
+cache line:32    offset_bit:6    index_bit:5
+miss rate:0.0827779
+===========
+ways:2    cache_size:2048    block_size:64
+cache line:32    offset_bit:6    index_bit:4
+miss rate:0.0517749
+===========
+ways:4    cache_size:2048    block_size:64
+cache line:32    offset_bit:6    index_bit:3
+miss rate:0.041854
+===========
+ways:8    cache_size:2048    block_size:64
+cache line:32    offset_bit:6    index_bit:2
+miss rate:0.0398388
+===========
+ways:1    cache_size:4096    block_size:64
+cache line:64    offset_bit:6    index_bit:6
+miss rate:0.0547202
+===========
+ways:2    cache_size:4096    block_size:64
+cache line:64    offset_bit:6    index_bit:5
+miss rate:0.0362734
+===========
+ways:4    cache_size:4096    block_size:64
+cache line:64    offset_bit:6    index_bit:4
+miss rate:0.0306929
+===========
+ways:8    cache_size:4096    block_size:64
+cache line:64    offset_bit:6    index_bit:3
+miss rate:0.0280577
+===========
+ways:1    cache_size:8192    block_size:64
+cache line:128    offset_bit:6    index_bit:7
+miss rate:0.0403038
+===========
+ways:2    cache_size:8192    block_size:64
+cache line:128    offset_bit:6    index_bit:6
+miss rate:0.0297628
+===========
+ways:4    cache_size:8192    block_size:64
+cache line:128    offset_bit:6    index_bit:5
+miss rate:0.0266625
+===========
+ways:8    cache_size:8192    block_size:64
+cache line:128    offset_bit:6    index_bit:4
+miss rate:0.0244923
+===========
+ways:1    cache_size:16384    block_size:64
+cache line:256    offset_bit:6    index_bit:8
+miss rate:0.031623
+===========
+ways:2    cache_size:16384    block_size:64
+cache line:256    offset_bit:6    index_bit:7
+miss rate:0.0237173
+===========
+ways:4    cache_size:16384    block_size:64
+cache line:256    offset_bit:6    index_bit:6
+miss rate:0.0234072
+===========
+ways:8    cache_size:16384    block_size:64
+cache line:256    offset_bit:6    index_bit:5
+miss rate:0.0229422
+===========
+ways:1    cache_size:32768    block_size:64
+cache line:512    offset_bit:6    index_bit:9
+miss rate:0.0254224
+===========
+ways:2    cache_size:32768    block_size:64
+cache line:512    offset_bit:6    index_bit:8
+miss rate:0.0232522
+===========
+ways:4    cache_size:32768    block_size:64
+cache line:512    offset_bit:6    index_bit:7
+miss rate:0.0227872
+===========
+ways:8    cache_size:32768    block_size:64
+cache line:512    offset_bit:6    index_bit:6
+miss rate:0.0227872
+===========
+
+--------------------------------
+Process exited after 0.2985 seconds with return value 0
+請按任意鍵繼續 . . .
